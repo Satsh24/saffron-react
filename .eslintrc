@@ -33,7 +33,7 @@
     "browser": true
   },
   "rules": {
-    // "react/no-unused-prop-types": 1,
+    "react/no-unused-prop-types": 1,
     "react/no-deprecated": 1,
     "react/prop-types": 0,
     "eqeqeq": ["error", "always", { "null": "ignore" }],
